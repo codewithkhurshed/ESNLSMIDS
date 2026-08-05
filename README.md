@@ -1,2 +1,2 @@
 # ESNLSMIDS
-This work is submitted for review in Plos One Journal. Source code will be available after acceptance.
+This work has been accepted for publication in Plos One Journal. For source code mail to mohdkhurshed120@gmail.com
